@@ -18,3 +18,5 @@ for i,word in enumerate(string):
 
 for a in string:
     print(a)
+
+print("Версия для тестирования JetBrains")
